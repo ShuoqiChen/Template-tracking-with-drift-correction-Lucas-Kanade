@@ -1,6 +1,5 @@
 # Template tracking with drift correction - Lucas-Kanade
 
-Template tracking with drift correction - Lucas-Kanade
 
 In computer vision, the Lucas–Kanade method is a widely used method for object tracking by Bruce D. Lucas and Takeo Kanade. 
 
@@ -14,4 +13,6 @@ In this demo, I demonstrate the robustness and versatility of Lucas-Kanade metho
 
 In the demo vidoes, I also use template correction method proposed by Iain Matthews et al. (2003, https://www.ri.cmu.edu/publication_view.html?pub_id=4433) to solve the template drifting problem. 
 
-![demo](/demo/airfield_forward _k_motion_tracking.gif)
+![demo](demo/airfield_forward _k_motion_tracking.gif)
+
+![Farmers Market Finder Demo](demo/demo.gif)
