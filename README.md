@@ -1,4 +1,4 @@
-# PersonalProjects
+# Template tracking with drift correction - Lucas-Kanade
 
 Template tracking with drift correction - Lucas-Kanade
 
