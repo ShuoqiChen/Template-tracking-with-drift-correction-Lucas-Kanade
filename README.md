@@ -17,4 +17,4 @@ In the demo vidoes, I also use template correction method proposed by Iain Matth
 
 ![Farmers Market Finder Demo](demo/demo.gif)
 
-![demo](demo/airfield_forward _k_motion_tracking.gif)
+![demo](demo/airfield_forward_k_motion_tracking.gif)
