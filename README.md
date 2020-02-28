@@ -15,4 +15,6 @@ In the demo vidoes, I also use template correction method proposed by Iain Matth
 
 ![demo](demo/car_with_drift_correction.gif)
 
+![demo](demo/sylv_with_drift_correction.gif)
+
 ![demo](demo/airfield_forward_k_motion_tracking.gif)
