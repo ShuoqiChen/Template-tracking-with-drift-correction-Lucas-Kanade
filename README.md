@@ -11,9 +11,6 @@ The benefit of Lucas–Kanade method can often resolve the inherent ambiguity of
 **What is in the demo?**
 
 In this demo, I demonstrate the robustness and versatility of Lucas-Kanade method by showing the the tracker successful handle different object tracking in video. 
-1) Car moving on the street
-2) Toy manipulated by a moving hand 
-3) Convoy of cars driving in an open space
 
 1. Car moving on the street
 1. Toy manipulated by a moving hand 
