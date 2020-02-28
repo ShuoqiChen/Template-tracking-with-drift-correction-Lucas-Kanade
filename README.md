@@ -1,14 +1,14 @@
 # Template tracking with drift correction - Lucas-Kanade
 
 
-**What is Lucas-Kanade Method?*
+**What is Lucas-Kanade Method?**
 
 In computer vision, the Lucas–Kanade method is a widely used method for object tracking by Bruce D. Lucas and Takeo Kanade. 
 
 The algorithm that the optical flow is essentially constant in a local neighbourhood of the pixel under consideration, and solves the basic optical flow equations for all the pixels in that neighbourhood, by the least squares criterion.
 The benefit of Lucas–Kanade method can often resolve the inherent ambiguity of the optical flow equation. It is also less sensitive to image noise than point-wise methods. 
 
-**What is in the demo?*
+**What is in the demo?**
 
 In this demo, I demonstrate the robustness and versatility of Lucas-Kanade method by showing the the tracker successful handle different object tracking in video. 
 1) Car moving on the street
