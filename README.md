@@ -14,4 +14,4 @@ In this demo, I demonstrate the robustness and versatility of Lucas-Kanade metho
 
 In the demo vidoes, I also use template correction method proposed by Iain Matthews et al. (2003, https://www.ri.cmu.edu/publication_view.html?pub_id=4433) to solve the template drifting problem. 
 
-![](example results/airfield forward lk motion tracking.gif)
+![](demo/airfield_forward _k_motion tracking.gif.gif)
