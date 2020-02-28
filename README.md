@@ -11,6 +11,12 @@ In this demo, I demonstrate the robustness and versatility of Lucas-Kanade metho
 2) Toy manipulated by a moving hand 
 3) convoy of cars driving in an open space
 
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
 In the demo vidoes, I also use template correction method proposed by Iain Matthews et al. (2003, https://www.ri.cmu.edu/publication_view.html?pub_id=4433) to solve the template drifting problem. 
 
 ![demo](demo/car_with_drift_correction.gif)
